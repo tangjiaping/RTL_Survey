@@ -4,3 +4,6 @@
 [submodule "FMUL_64/fudian"]
 	path = FMUL_64/fudian
 	url = https://github.com/OpenXiangShan/fudian
+[submodule "riscv-mini/riscv-mini"]
+	path = riscv-mini/riscv-mini
+	url = https://github.com/ucb-bar/riscv-mini
