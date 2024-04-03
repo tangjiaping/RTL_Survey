@@ -1,3 +1,6 @@
 [submodule "CryptographyAccelerator/cryptography-accelerator"]
 	path = CryptographyAccelerator/cryptography-accelerator
 	url = https://github.com/asinghani/crypto-accelerator
+[submodule "FMUL_64/fudian"]
+	path = FMUL_64/fudian
+	url = https://github.com/OpenXiangShan/fudian
