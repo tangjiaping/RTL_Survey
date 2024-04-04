@@ -7,3 +7,6 @@
 [submodule "riscv-mini/riscv-mini"]
 	path = riscv-mini/riscv-mini
 	url = https://github.com/ucb-bar/riscv-mini
+[submodule "NetShell/netShell"]
+	path = NetShell/netShell
+	url = https://github.com/OSCPU/NutShell
