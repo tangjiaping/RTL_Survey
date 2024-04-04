@@ -10,3 +10,9 @@
 [submodule "NetShell/netShell"]
 	path = NetShell/netShell
 	url = https://github.com/OSCPU/NutShell
+[submodule "TensorLib/tensor-lib"]
+	path = TensorLib/tensor-lib
+	url = https://github.com/pku-liang/TensorLib
+[submodule "SIGMA/sigma"]
+	path = SIGMA/sigma
+	url = https://github.com/georgia-tech-synergy-lab/SIGMA
