@@ -20,3 +20,6 @@
 	path = riscv-sodor/riscv-sodor
 	url = https://github.com/ucb-bar/riscv-sodor.git
 	branch = sodor-old
+[submodule "rocket-chip/rocket-chip"]
+	path = rocket-chip/rocket-chip
+	url = https://github.com/chipsalliance/rocket-chip.git
