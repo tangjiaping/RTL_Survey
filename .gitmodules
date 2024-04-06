@@ -16,3 +16,7 @@
 [submodule "SIGMA/sigma"]
 	path = SIGMA/sigma
 	url = https://github.com/georgia-tech-synergy-lab/SIGMA
+[submodule "riscv-sodor/riscv-sodor"]
+	path = riscv-sodor/riscv-sodor
+	url = https://github.com/ucb-bar/riscv-sodor.git
+	branch = sodor-old
