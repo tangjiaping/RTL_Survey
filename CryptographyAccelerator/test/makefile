@@ -1,4 +1,10 @@
 
 
-Sha256:
-	verilator --binary --cc --no-main Sha256Wishbone.v Sha256Wishbone-harness.cpp -o Sha256Wishbone
+
+
+Sha256Accel-%:
+	verilator --binary --cc --no-main ../rtl/Sha256Accel.v Sha256Accel-harness-$*.cpp -o $@
+	
+	
+clean:
+	rm -rf obj_dir
